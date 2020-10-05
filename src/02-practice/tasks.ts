@@ -139,7 +139,7 @@ import { ajax } from "rxjs/ajax";
     // run(stream$);
 })();
 
-// Task 2. ajax()
+// Task 2. elementAt()
 // Вкиростовуючи ajax('http://jsonplaceholder.typicode.com/users') видати ім'я сьомого юзера.
 // У випадко його відсутності вивести "Doesn't exist!"
 
